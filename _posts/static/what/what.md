@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: Wat
-permalink: what/what
+permalink: what/what/
 ---
 
 ## A New Post
