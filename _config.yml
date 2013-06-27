@@ -1,8 +1,9 @@
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
+relative_permalinks: false
 prose:
-  rooturl: '_posts'
+  rooturl: ''
   siteurl: 'http://alexbrasetvik.github.io/starter/'
   relativeLinks: 'http://alexbrasetvik.github.io/starter/links.jsonp'
   media: 'media'
