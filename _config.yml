@@ -5,7 +5,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://alexbrasetvik.github.io/starter/'
   relativeLinks: 'http://alexbrasetvik.github.io/starter/links.jsonp'
-  media: 'media'
+  media: '/starter/media'
   metadata:
     _posts:
       - name: "category"
